@@ -227,4 +227,4 @@ plot_monthly_ghg_trend()
 
 # Display a sample of the filtered dataset
 with st.expander("View Filtered Dataset Sample"):
-    st.dataframe(filtered_df.head(10))
+    st.dataframe(filtered_df.head())
