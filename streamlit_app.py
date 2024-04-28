@@ -11,7 +11,7 @@ df = pd.read_excel('net_zero_dashboard_data.xlsx')
 # PAGE SETUP
 #######################################
 
-st.set_page_config(page_title="NetZero Nexus", page_icon="🌱", layout="wide")
+st.set_page_config(page_title="NetZero Nexus", page_icon="♻️", layout="wide")
 
 st.title("NetZero Nexus")
 st.markdown("_Prototype v1.0_")
