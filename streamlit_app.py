@@ -11,9 +11,9 @@ df = pd.read_excel('net_zero_dashboard_data.xlsx')
 # PAGE SETUP
 #######################################
 
-st.set_page_config(page_title="IOCL Sustainability Dashboard", page_icon="🌱", layout="wide")
+st.set_page_config(page_title="NetZero Nexus", page_icon="🌱", layout="wide")
 
-st.title("IOCL Sustainability Dashboard")
+st.title("NetZero Nexus")
 st.markdown("_Prototype v1.0_")
 
 with st.sidebar:
