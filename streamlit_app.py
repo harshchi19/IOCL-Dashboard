@@ -13,7 +13,7 @@ df = pd.read_excel('net_zero_dashboard_data.xlsx')
 
 st.set_page_config(page_title="NetZero Nexus", page_icon="♻️", layout="wide")
 
-st.title("NetZero Nexus")
+st.title("♻️ NetZero Nexus")
 st.markdown("_Prototype v1.0_")
 
 with st.sidebar:
